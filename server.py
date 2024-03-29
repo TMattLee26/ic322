@@ -1,3 +1,9 @@
+"""
+Author: MIDN 3/C Tristan Lee
+Project: Build a Server
+Description: A simple HTTP server to serve HTML and Image (jpg/png) Files
+Usage: python3 server.py
+"""
 from socket import *
 
 server_socket = socket(AF_INET, SOCK_STREAM)
