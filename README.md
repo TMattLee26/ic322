@@ -8,7 +8,7 @@ Usage: python3 server.py
 
 ## Collaboration/Citations
 
-I used [RFC 7231](https://datatracker.ietf.org/doc/html/rfc7231) of the HTTP/1.1 to understand how to format my HTTP response headers. I also used the course textbook as a reference for building the initial server.
+I used [RFC 7231](https://datatracker.ietf.org/doc/html/rfc7231) of the HTTP/1.1 protocol to understand how to format my HTTP response headers. I also used the course textbook as a reference for building the initial server.
 
 ## Process
 
